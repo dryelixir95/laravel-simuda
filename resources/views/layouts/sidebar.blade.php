@@ -20,14 +20,19 @@
 
   <li class="nav-item">
     <a class="nav-link" href="#">
-      <i class="fas fa-fw fa-tachometer-alt"></i>
+      <i class="fas fa-fw fa-user-alt"></i>
+      <span>Admin</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">
+      <i class="fas fa-fw fa-check"></i>
       <span>Pemuda</span></a>
   </li>
 
   <li class="nav-item">
     <a class="nav-link" href="#">
-      <i class="fas fa-fw fa-tachometer-alt"></i>
-      <span>Kategori</span></a>
+      <i class="fas fa-fw fa-city"></i>
+      <span>Data Daerah</span></a>
   </li>
 
   <!-- Divider -->
